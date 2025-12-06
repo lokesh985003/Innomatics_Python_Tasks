@@ -22,7 +22,7 @@ README.md
 
 ---
 
-## 📄 List of Programs (Simple Descriptions)
+## 📄 List of Programs 
 
 - **1_hello_world.py** → Prints “Hello, World!”
 - **2_if_else.py** → Shows basic if-else conditions
