@@ -1,71 +1,86 @@
 # Innomatics Python Tasks
 
 This repository contains my Python programs for the Innomatics Data Science Internship.  
-The tasks include basic and advanced Python problems.
+The tasks include both basic and advanced Python problems organized into separate folders.
 
 ---
 
 ## 📁 Project Structure
 
-All programs are saved as separate Python files:
+### **Task 1 – Basic Python**
+Contains 7 beginner Python programs:
 
 ```
-1_hello_world.py
-2_if_else.py
-3_arithmetic_operators.py
-4_division.py
-5_loops_print_1_to_n.py
-6_is_leap.py
-7_print_function_examples.py
-running_sum.py
-shuffle_array.py
-kids_with_candies.py
-README.md
+Task_1_Basic_Python/
+├── 1_hello_world.py
+├── 2_if_else.py
+├── 3_arithmetic_operators.py
+├── 4_division.py
+├── 5_loops_print_1_to_n.py
+├── 6_is_leap.py
+└── 7_print_function_examples.py
 ```
+
+### **Task 2 – Advanced Python (LeetCode Problems)**
+Contains 3 problem-solving Python programs:
+
+
+```
+Task_2_Advanced_Python/
+├── running_sum.py
+├── shuffle_array.py
+└── kids_with_candies.py
+```
+
 
 ---
 
 ## 📄 List of Programs
 
+### **Task 1 – Basic Python**
 - **1_hello_world.py** – Prints “Hello, World!”
-- **2_if_else.py** – Shows simple if–else conditions
-- **3_arithmetic_operators.py** – Basic math operations
-- **4_division.py** – Integer and float division
+- **2_if_else.py** – Demonstrates simple if–else logic
+- **3_arithmetic_operators.py** – Performs basic arithmetic operations
+- **4_division.py** – Shows integer and float division
 - **5_loops_print_1_to_n.py** – Prints numbers from 1 to n
 - **6_is_leap.py** – Checks if a year is a leap year
-- **7_print_function_examples.py** – Prints numbers in one line
-- **running_sum.py** – Running sum of a list (LeetCode)
-- **shuffle_array.py** – Shuffle array pattern (LeetCode)
-- **kids_with_candies.py** – Candy comparison logic (LeetCode)
+- **7_print_function_examples.py** – Prints numbers inline
+
+### **Task 2 – Advanced Python**
+- **running_sum.py** – Running sum of an array (LeetCode)
+- **shuffle_array.py** – Shuffle array format (LeetCode)
+- **kids_with_candies.py** – Maximum candies comparison (LeetCode)
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-- Printing output  
-- If–else conditions  
-- Basic math operations  
-- Loops  
+- Printing and formatting output  
+- Conditional statements (`if`, `elif`, `else`)  
+- Arithmetic operations  
+- Looping (for loops)  
 - Functions  
-- Working with lists  
-- Simple logic building  
-- Writing clean and readable code  
+- List operations  
+- Solving logical problems  
+- Clean and readable coding style  
+- Organizing programs into folders  
+- Using GitHub for version control  
 
 ---
 
 ## 📌 Instructions Followed (As per Internship Task)
 
-- Created and used a GitHub repository  
-- Uploaded all Python files  
-- Kept a clean file structure  
-- Added a simple and clear README  
-- Checked that all files run correctly  
+- Created a GitHub repository  
+- Uploaded all Python task files  
+- Organized programs into separate folders (Task 1 & Task 2)  
+- Added proper documentation (this README)  
+- Ensured all files run without errors  
 
 ---
 
 ## ▶️ How to Run Any Program
 
-Run using Python 3:
+Use Python 3 to run any file:
 
 ```
 python filename.py
@@ -77,6 +92,10 @@ Example:
 python 5_loops_print_1_to_n.py
 ```
 
+(Go inside the Task folder before running the program.)
+
 ---
 
-More programs will be added here as new tasks are given.
+More tasks will be added here as the internship progresses.
+
+
