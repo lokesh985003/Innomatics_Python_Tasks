@@ -1,14 +1,8 @@
-# Programming Task – 1
+# Innomatics Python Tasks
 
-This folder contains my solutions for 7 basic Python problems.
+This repo contains all my Python assignments.
 
-Each file is a simple Python program:
-- Printing text
-- Using if-else
-- Doing basic math
-- Division
-- Loops
-- Leap year check
-- Printing numbers
+- **Task 1:** Basic Python (7 problems)  
+- **Task 2:** Advanced Python (3 LeetCode problems)
 
-I completed this as part of my Innomatics Python assignment.
+All future tasks will also be added here.
